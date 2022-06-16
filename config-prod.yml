@@ -1,0 +1,2 @@
+config:
+  init: master,prod
